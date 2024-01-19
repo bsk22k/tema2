@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#trivia-game {
+    margin: auto;
+    width: 50%;
+}
+
+#answers div {
+    margin: 10px 0;
+    cursor: pointer;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+#answers div:hover {
+    background-color: #f0f0f0;
+}
